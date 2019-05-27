@@ -1,6 +1,4 @@
-# Taiwan-environmental-dataset
-
-## 臺灣陸域環境因子多時序資料集 (A terrestrially and multi-temporally environmental dataset of Taiwan)
+# 臺灣陸域環境因子多時序資料集 (A terrestrially and multi-temporally environmental dataset of Taiwan)
 * 盤點國內外環境資料集，篩選其中高解析度且訊息最完整之臺灣範圍內資料，運用GIS空間分析建構1km<sup>2</sup>網格解析度的「臺灣陸域環境因子多時序資料集」
 * 資料集時間橫跨1970~2010年，以每10年為時間分點，共分成5個年代
 * 資料範圍含括臺灣整體陸域，並依地理位置分別建立兩個子資料集
@@ -17,14 +15,14 @@
   (7)	坡向 (Aspect)：單位degree。  
   (8)	日射量 (Area Solar Radiation, ASR)：全年日照平均值，單位WH/m<sup>2</sup>。  
   * 氣候因子     
-   _溫度 (Temperature)_  
+   __溫度 (Temperature)__  
    (1)	月均溫 (Monthly mean of daily mean temperature, Temp)：一至十二月每一個月之平均每日均溫，總共12個月份的月均溫圖層 (Temp01-12)，單位℃。  
    (2)	月高溫 (Monthly mean of daily maximum temperature, Tmax)：一至十二月每一個月份之平均每日最高溫，總共12個月份的平均最高溫圖層(Tmax01-12)，單位℃。  
    (3)	月低溫 (Monthly mean of daily minimum temperature, Tmin)：一至十二月每一個月份之平均每日最低溫，總共12個月份的平均最低溫圖層 (Tmin01-12)，單位℃。  
    (4)	每月平均日溫差 (Range of maximum and minimum monthly temperature, Tra)：一至十二月每一個月份之平均每日溫差，總共12個月份的平均日溫差圖層(Tra01-12)，單位℃。     
-   _降水量 (Precipitation)_  
+   __降水量 (Precipitation)__  
    (5)	月降水量  (Monthly precipitation sums, Prec)：一至十二月每一個月份之月降水量，總共12個月份的月降水量圖層(Prec01-12)，單位mm。   
-   _生物氣候變數 (Bioclimatic variables)_  
+   __生物氣候變數 (Bioclimatic variables)__  
    (6)	年均溫 (Annual Mean Temperature, Bio01)：全年12個月份月均溫之平均值，單位℃。  
    (7)	平均日溫差 (Mean Diurnal Range, Bio02)：全年12個月份平均日溫差之平均值，每月平均日溫差為當月高溫與當月低溫之差值，單位℃。  
    (8) 溫度恆定性 (Isothermality, Bio03)：平均日溫差除以年溫差 (Bio2 / Bio7)× 100，單位%。  
