@@ -17,12 +17,28 @@
   (7)	坡向 (Aspect)：單位degree。  
   (8)	日射量 (Area Solar Radiation, ASR)：全年日照平均值，單位WH/m2。  
   * 氣候因子
-   * 溫度 (Temperature)：  
+  溫度 (Temperature)：  
    (1)	月均溫 (Monthly mean of daily mean temperature, Temp)：一至十二月每一個月之平均每日均溫，總共12個月份的月均溫圖層 (Temp01-12)，單位℃。  
    (2)	月高溫 (Monthly mean of daily maximum temperature, Tmax)：一至十二月每一個月份之平均每日最高溫，總共12個月份的平均最高溫圖層(Tmax01-12)，單位℃。  
    (3)	月低溫 (Monthly mean of daily minimum temperature, Tmin)：一至十二月每一個月份之平均每日最低溫，總共12個月份的平均最低溫圖層 (Tmin01-12)，單位℃。  
    (4)	每月平均日溫差 (Range of maximum and minimum monthly temperature, Tra)：一至十二月每一個月份之平均每日溫差，總共12個月份的平均日溫差圖層(Tra01-12)，單位℃。  
+  降水量 (Precipitation)：  
+   (5)	月降水量  (Monthly precipitation sums, Prec)：一至十二月每一個月份之月降水量，總共12個月份的月降水量圖層(Prec01-12)，單位mm。   
+  生物氣候變數 (Bioclimatic variables)：  
+   (6)	年均溫 (Annual Mean Temperature, Bio01)：全年12個月份月均溫之平均值，單位℃。  
+   (7)	平均日溫差 (Mean Diurnal Range, Bio02)：全年12個月份平均日溫差之平均值，每月平均日溫差為當月高溫與當月低溫之差值，單位℃。  
+   
 
-  * 土地覆蓋因子
+  * 土地覆蓋因子  
+  (1)	農田 (Farm field, FF)：包含倚賴降雨的農田以及部分農田與自然植被鑲嵌（樹木、灌木、草本植物）土地覆蓋類型，單位m2。  
+  (2)	草本、草本作物(旱田)	(Meadow, MD)：包含草本植物覆蓋、部分農田與自然植被鑲嵌（樹木、灌木、草本植物）、部分自然植被鑲嵌（樹木、灌木與草本）、草地以及部分稀疏植被（樹木、灌木、草本植物）等土地覆蓋類型，單位m2。  
+  (3)	農濕地 (Farm Wetland, FW)：灌溉或淹水的農田，單位m2。  
+  (4)	森林 (Forest, FO)：闊葉林、針葉林、部分農田與自然植被鑲嵌（樹木、灌木、草本植物）、部分自然植被鑲嵌（樹木、灌木與草本）、部分稀疏植被（樹木、灌木、草本植物）以及水邊與海濱樹林等土地覆蓋類型，單位m2。  
+  (5)	灌叢 (Bush, BU)：灌叢、樹木或灌木鑲嵌、部分農田與自然植被鑲嵌（樹木、灌木、草本植物）、部分自然植被鑲嵌（樹木、灌木與草本）、部分稀疏植被（樹木、灌木、草本植物）以及常綠灌叢等土地覆蓋類型，單位m2。  
+  (6)	濕地 (Wetland, WL)：淡水、鹹水或微鹹水具灌木或草本覆蓋區域，單位m2。  
+  (7)	都市 (Urban, UB)：城市區域，單位m2。  
+  (8)	水體 (Waterbody, WB)：水體，單位m2。  
+  (9)	裸露地 (Bare Land, BL)：裸露地與部分稀疏植被（樹木、灌木、草本植物）區域，單位m2。
+
   * 其他人文地理因子
 * 以ESRI shapefile ＆ ASCII檔提供資料
