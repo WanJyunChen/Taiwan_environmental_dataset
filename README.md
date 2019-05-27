@@ -17,11 +17,11 @@
   (7)	坡向 (Aspect)：單位degree。  
   (8)	日射量 (Area Solar Radiation, ASR)：全年日照平均值，單位WH/m2。  
   * 氣候因子
-  ### 溫度 (Temperature)：  
-  (1)	月均溫 (Monthly mean of daily mean temperature, Temp)：一至十二月每一個月之平均每日均溫，總共12個月份的月均溫圖層 (Temp01-12)，單位℃。  
-  (2)	月高溫 (Monthly mean of daily maximum temperature, Tmax)：一至十二月每一個月份之平均每日最高溫，總共12個月份的平均最高溫圖層(Tmax01-12)，單位℃。  
-  (3)	月低溫 (Monthly mean of daily minimum temperature, Tmin)：一至十二月每一個月份之平均每日最低溫，總共12個月份的平均最低溫圖層 (Tmin01-12)，單位℃。  
-  (4)	每月平均日溫差 (Range of maximum and minimum monthly temperature, Tra)：一至十二月每一個月份之平均每日溫差，總共12個月份的平均日溫差圖層(Tra01-12)，單位℃。  
+   * 溫度 (Temperature)：  
+   (1)	月均溫 (Monthly mean of daily mean temperature, Temp)：一至十二月每一個月之平均每日均溫，總共12個月份的月均溫圖層 (Temp01-12)，單位℃。  
+   (2)	月高溫 (Monthly mean of daily maximum temperature, Tmax)：一至十二月每一個月份之平均每日最高溫，總共12個月份的平均最高溫圖層(Tmax01-12)，單位℃。  
+   (3)	月低溫 (Monthly mean of daily minimum temperature, Tmin)：一至十二月每一個月份之平均每日最低溫，總共12個月份的平均最低溫圖層 (Tmin01-12)，單位℃。  
+   (4)	每月平均日溫差 (Range of maximum and minimum monthly temperature, Tra)：一至十二月每一個月份之平均每日溫差，總共12個月份的平均日溫差圖層(Tra01-12)，單位℃。  
 
   * 土地覆蓋因子
   * 其他人文地理因子
