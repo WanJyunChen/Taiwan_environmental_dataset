@@ -60,4 +60,4 @@
   (3)	最短淡水體距離 (Nearest distance to fresh water, DFW)：計算每個網格中心點距離淡水體距離(m)，淡水體資料來源為交通路網數值圖提供之河流湖泊圖層（交通部 2016）。  
   (4)	最短鹹水體距離 (Nearest distance to salt water, DSW)：計算每個網格中心點距離海岸線距離 (m)，海岸線以2008年自然與人工海岸線示意圖（內政部營建署 2015）為基準。  
 
-* 以ESRI shapefile ＆ ASCII檔提供資料
+* 以ESRI shapefile & GeoTIFF & ASCII檔提供資料
