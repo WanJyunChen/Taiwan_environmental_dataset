@@ -1,4 +1,4 @@
-# 臺灣陸域環境因子多時序資料集 (A terrestrially and multi-temporally environmental dataset of Taiwan)
+# 臺灣陸域環境因子多時序資料集 (A multi-temporal and terrestrial environmental dataset of Taiwan)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 * 盤點國內外環境資料集，篩選其中高解析度且訊息最完整之臺灣範圍內資料，運用GIS空間分析建構1 km<sup>2</sup>網格解析度的「臺灣陸域環境因子多時序資料集」
 * 資料集時間橫跨1970-2010年，以每10年為時間分點，共分成5個年代
@@ -62,4 +62,6 @@
   (4)	最短鹹水體距離 (Nearest Distance to Salt Water, DSW)：計算每個網格中心點距離海岸線距離 (m)，海岸線以2008年自然與人工海岸線示意圖（內政部營建署 2015）為基準。  
 
 * 以ESRI shapefile & GeoTIFF & ASCII檔提供資料
-* 更多說明：詳細說明文章投稿於台灣生物多樣性研究（審稿中）
+* 詳細說明：陳宛均、羅祈鈞、蔡富安、張安瑜。2020。運用開放資料建置臺灣陸域環境因子多時序資料集。台灣生物多樣性研究 22: 13-44。
+
+  (3)	最低海拔 (Minimum Elevation, ELEMIN)：海拔高度的最小值，單位m。  
