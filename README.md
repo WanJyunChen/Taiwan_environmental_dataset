@@ -1,6 +1,6 @@
 # 臺灣陸域環境因子多時序資料集 (A multi-temporal and terrestrial environmental dataset of Taiwan)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
-* 盤點國內外環境資料集，篩選其中高解析度且訊息最完整之臺灣範圍內資料，運用GIS空間分析建構1 km<sup>2</sup>網格解析度的「臺灣陸域環境因子多時序資料集」
+* 盤點國內外環境資料集，篩選其中高解析度且訊息最完整之臺灣範圍內資料，運用GIS空間分析建構1 km網格解析度的「臺灣陸域環境因子多時序資料集」
 * 資料集時間橫跨1970-2010年，以每10年為時間分點，共分成5個年代
 * 資料範圍含括臺灣整體陸域，並依地理位置分別建立兩個子資料集
   * TWD97/TM2 Zone 119 (EPSG: 3825)，包含馬祖列島、金門群島、澎湖群島與東沙群島
