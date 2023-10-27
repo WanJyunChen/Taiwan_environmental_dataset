@@ -63,3 +63,5 @@
 
 * 以ESRI shapefile & GeoTIFF & ASCII檔提供資料
 * 詳細說明：[陳宛均、羅祈鈞、蔡富安、張安瑜。2020。運用開放資料建置臺灣陸域環境因子多時序資料集。台灣生物多樣性研究 22: 13-44。](https://www.tesri.gov.tw/A15_2/content/32207)
+  
+* The dataset was classified into five-decade periods between 1970 and 2010. We divided the dataset into two sub-datasets by two degree zones. TWD97/ TM2 Zone 121 includes Taiwan proper, Hsiao Liouciou Island, PenChia Yu, Mian-Hua Yu, Hua-Ping Yu, Kueishan Island, Lüdao and Orchid islands; and the TWD97/ TM2 Zone 119 includes Matsu islands, Kinmen islands, Penghu islands and Pratas islands. We set 100 variables in the dataset, including eight topographical variables, 79 climatic variables, nine land cover types and four other variables. This ready-dataset was opened as shapefile, GeoTIFF and ASCII data formats.
